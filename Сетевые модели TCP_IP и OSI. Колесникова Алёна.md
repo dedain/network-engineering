@@ -35,6 +35,7 @@
 1. Откройте уровень TCP\\UDP;  
 1. Сравните пакеты TCP и UDP между собой. В чём отличия?  
 1. Приведите ответ в свободной форме.
+
 ![image](https://github.com/user-attachments/assets/8c290e32-9824-4778-a17c-5be969e8a019)
 ![image](https://github.com/user-attachments/assets/420ba9ce-e553-4dbf-888e-5f869cac6174)
 
