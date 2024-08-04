@@ -14,7 +14,8 @@
 
 1 \- Т.к. оборудование Juniper, то использовать буду протокол VRRP, потому что остальные \- проприетарные циски.
 
-2 \-![][image1]
+2 \-![image](https://github.com/user-attachments/assets/f74fd282-64d9-43c6-8ab6-04e96bd088ec)
+
 
 3 \- 
 
@@ -85,7 +86,8 @@ set routing-options static route 192.168.1.0/24 next-hop 10.0.2.2 preference 20
 
 4 \-  я 3 дня выключала не тот интерфейс и думала, почему ничего не работает)))
 
-![][image2]
+![image](https://github.com/user-attachments/assets/18defd3e-386e-4715-a83d-149d47151b65)
+
 
 # **Задание 3**
 
@@ -113,7 +115,8 @@ set routing-options static route 192.168.1.0/24 next-hop 10.0.2.2 preference 20
 
 1 \- т.к. надо обеспечить непрерывность и балансировку то GLBP
 
-![][image3]
+![image](https://github.com/user-attachments/assets/b6d0b299-00fa-49cf-a05e-1fbe92f3be04)
+
 
 R0 (avg)
 
